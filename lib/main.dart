@@ -1,14 +1,18 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
-import 'bloc_observer.dart';
-import 'src/container_injector.dart';
-import 'src/features/settings/presentation/cubit/settings_cubit.dart';
-import 'src/my_app.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
+import 'v2/app.dart';
+import 'v2/core/prefs.dart';
+import 'v2/notify/notifier.dart';
+
+/// Live Score 2.0 entry point. The v1 code under lib/src is kept for reference
+/// (original MIT-licensed app by Rady Haggag) but is no longer the entry point.
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await initApp();
-  await sl<SettingsCubit>().loadSettings();
-  Bloc.observer = MyBlocObserver();
-  runApp(const MyApp());
+  final prefs = await SharedPreferences.getInstance();
+  final store = FavoritesStore(prefs);
+  try {
+    await Notifier.init();
+  } catch (_) {}
+  runApp(LiveScoreApp(store: store));
 }
