@@ -1,0 +1,3 @@
+- Added fastlane metadata for F-Droid/IzzyOnDroid
+- Open-source licenses and version shown in More screen
+- Version 2.1.1 (build 10)

@@ -59,11 +59,11 @@ class MoreScreen extends StatelessWidget {
         h('About'),
         const ListTile(
           leading: Icon(Icons.info_outline),
-          title: Text('Live Score 2.1.0'),
+          title: Text('Live Score 2.1.1'),
           subtitle: Text('Based on the open-source Live Score app by Rady Haggag (MIT License). '
               'Match data from the public 365scores web API. Not affiliated with 365scores or FotMob.'),
         ),
-        ListTile(leading: const Icon(Icons.description_outlined), title: const Text('Open-source licenses'), onTap: () => showLicensePage(context: context, applicationName: 'Live Score', applicationVersion: '2.1.0')),
+        ListTile(leading: const Icon(Icons.description_outlined), title: const Text('Open-source licenses'), onTap: () => showLicensePage(context: context, applicationName: 'Live Score', applicationVersion: '2.1.1 (10)')),
       ]),
     );
   }

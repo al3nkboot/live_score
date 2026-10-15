@@ -1,0 +1,1 @@
+Live Score is an open-source football app. It shows live scores, today's fixtures, league standings, lineups, match events and statistics. Based on live_score by Rady Haggag (MIT License). Match data comes from a third-party service.
