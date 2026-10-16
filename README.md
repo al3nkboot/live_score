@@ -89,30 +89,19 @@ Here are some previews of **Live Score App** after the latest update:
   <img src="https://github.com/user-attachments/assets/fde752ac-f3ff-4bda-948a-07c459ab72fb" alt="Fixture events" width="30%"/>
 </p>
 
-## 📥 Download (Play store) - ⚠️ NOT AVAILABLE RIGHT NOW ‼️
+## 📥 Download
+
+Get the signed APK from [GitHub Releases](https://github.com/al3nkboot/live_score/releases/latest).
+
+## Screenshots
 
 <p align="center">
-  <!-- <a href="https://play.google.com/store/apps/details?id=com.radyhaggag.livescore" target="_blank"> -->
-    <a href="#" target="_blank">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" 
-         alt="Get it on Play Store" 
-         height="80"/>
-  </a>
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg" width="180" alt="Matches"/>
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg" width="180" alt="Match facts"/>
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg" width="180" alt="Lineup"/>
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg" width="180" alt="Ratings"/>
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/5.jpg" width="180" alt="Table"/>
 </p>
-
-## Live score mockup (Old version)
-
-- Soccer screen
-  ![Soccer screen](https://user-images.githubusercontent.com/74488175/187052821-24662179-c54d-4606-8bcb-0e80124941d5.png)
-
-- Fixture lineups
-  ![fixture lineups](https://user-images.githubusercontent.com/74488175/187052851-f3a8e80f-7c24-41f0-9758-b8199a56788d.png)
-
-- Fixture Standings
-  ![standings](https://user-images.githubusercontent.com/74488175/187052856-c4392b06-4334-4cb3-b05a-c62bbe8b94ef.png)
-
-- Fixture details (events and statistics)
-  ![fixture_details](https://user-images.githubusercontent.com/74488175/187052862-316dfbc6-0f28-4fbc-b276-b950e5b43f10.png)
 
 ### Packages used in the project:
 
