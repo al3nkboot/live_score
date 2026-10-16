@@ -59,11 +59,11 @@ class MoreScreen extends StatelessWidget {
         h('About'),
         const ListTile(
           leading: Icon(Icons.info_outline),
-          title: Text('Mi5G Score 2.2.0'),
+          title: Text('Mi5G Score 2.2.1'),
           subtitle: Text('Mi5G Score by Midroid5G, based on the open-source Live Score app by Rady Haggag (MIT License). '
               'Match data from the public 365scores web API. Not affiliated with 365scores or FotMob.'),
         ),
-        ListTile(leading: const Icon(Icons.description_outlined), title: const Text('Open-source licenses'), onTap: () => showLicensePage(context: context, applicationName: 'Mi5G Score', applicationVersion: '2.2.0 (11)', applicationLegalese: 'Based on Live Score © 2026 Rady Haggag. MIT License.')),
+        ListTile(leading: const Icon(Icons.description_outlined), title: const Text('Open-source licenses'), onTap: () => showLicensePage(context: context, applicationName: 'Mi5G Score', applicationVersion: '2.2.1 (12)', applicationLegalese: 'Based on Live Score © 2026 Rady Haggag. MIT License.')),
       ]),
     );
   }

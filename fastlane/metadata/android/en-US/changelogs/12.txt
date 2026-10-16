@@ -1,0 +1,4 @@
+- Rebranded to Mi5G Score with a new icon and package name (com.midroid.mi5gscore)
+- Installs as a separate app: uninstall the old Live Score
+- About screen credits the original Live Score by Rady Haggag (MIT)
+- Matches screen header now shows Mi5G Score

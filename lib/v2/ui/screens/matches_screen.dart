@@ -26,7 +26,7 @@ class Wordmark extends StatelessWidget {
         child: const Icon(Icons.bolt_rounded, size: 17, color: Colors.black),
       ),
       const SizedBox(width: 7),
-      Text('LIVE SCORE', style: TextStyle(fontSize: 19.5, fontWeight: FontWeight.w800, letterSpacing: -.3, color: fg, height: 1)),
+      Text('MI5G SCORE', style: TextStyle(fontSize: 19.5, fontWeight: FontWeight.w800, letterSpacing: -.3, color: fg, height: 1)),
     ]);
   }
 }
