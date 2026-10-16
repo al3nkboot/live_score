@@ -98,10 +98,11 @@ Get the signed APK from [GitHub Releases](https://github.com/al3nkboot/live_scor
 
 <p align="center">
   <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg" width="180" alt="Matches"/>
-  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg" width="180" alt="Match facts"/>
-  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg" width="180" alt="Lineup"/>
-  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg" width="180" alt="Ratings"/>
-  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/5.jpg" width="180" alt="Table"/>
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg" width="180" alt="League table"/>
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg" width="180" alt="Predicted lineup"/>
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg" width="180" alt="Match facts"/>
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/5.jpg" width="180" alt="Ratings"/>
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/6.jpg" width="180" alt="Head to head"/>
 </p>
 
 ### Packages used in the project:
