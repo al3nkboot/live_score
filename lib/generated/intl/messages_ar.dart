@@ -32,7 +32,7 @@ class MessageLookup extends MessageLookupByLibrary {
     "aggregateScore": m0,
     "all": MessageLookupByLibrary.simpleMessage("الكل"),
     "allLeaguesTooltip": MessageLookupByLibrary.simpleMessage("كل الدوريات"),
-    "appName": MessageLookupByLibrary.simpleMessage("لايف سكور"),
+    "appName": MessageLookupByLibrary.simpleMessage("Mi5G سكور"),
     "appVersion": MessageLookupByLibrary.simpleMessage("إصدار التطبيق"),
     "appearance": MessageLookupByLibrary.simpleMessage("المظهر"),
     "appearanceDescription": MessageLookupByLibrary.simpleMessage(
@@ -80,7 +80,7 @@ class MessageLookup extends MessageLookupByLibrary {
     "lineups": MessageLookupByLibrary.simpleMessage("التشكيل"),
     "liveFallback": MessageLookupByLibrary.simpleMessage("مباشر"),
     "liveFixtures": MessageLookupByLibrary.simpleMessage("المباريات المباشرة"),
-    "liveScore": MessageLookupByLibrary.simpleMessage("لايف سكور"),
+    "liveScore": MessageLookupByLibrary.simpleMessage("Mi5G سكور"),
     "lostShort": MessageLookupByLibrary.simpleMessage("خ"),
     "noEvents": MessageLookupByLibrary.simpleMessage(
       "لا توجد أحداث متاحة حالياً",

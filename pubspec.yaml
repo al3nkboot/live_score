@@ -3,7 +3,7 @@ description: Live score app
 
 publish_to: "none"
 
-version: 2.1.1+10
+version: 2.2.0+11
 
 environment:
   sdk: ^3.7.2

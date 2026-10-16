@@ -54,9 +54,9 @@ class S {
     return Localizations.of<S>(context, S);
   }
 
-  /// `Live Score`
+  /// `Mi5G Score`
   String get appName {
-    return Intl.message('Live Score', name: 'appName', desc: '', args: []);
+    return Intl.message('Mi5G Score', name: 'appName', desc: '', args: []);
   }
 
   /// `No route found`
@@ -84,9 +84,9 @@ class S {
     return Intl.message('Standings', name: 'standings', desc: '', args: []);
   }
 
-  /// `Live Score`
+  /// `Mi5G Score`
   String get liveScore {
-    return Intl.message('Live Score', name: 'liveScore', desc: '', args: []);
+    return Intl.message('Mi5G Score', name: 'liveScore', desc: '', args: []);
   }
 
   /// `vs`

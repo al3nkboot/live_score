@@ -1,11 +1,11 @@
 {
   "@@locale": "en",
-  "appName": "Live Score",
+  "appName": "Mi5G Score",
   "noRouteFound": "No route found",
   "home": "Home",
   "fixtures": "Fixtures",
   "standings": "Standings",
-  "liveScore": "Live Score",
+  "liveScore": "Mi5G Score",
   "versus": "vs",
   "statistics": "Statistics",
   "lineups": "Lineups",

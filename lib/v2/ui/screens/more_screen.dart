@@ -48,7 +48,7 @@ class MoreScreen extends StatelessWidget {
           leading: Icon(Icons.battery_alert_outlined),
           title: Text('About alerts'),
           subtitle: Text('Alerts come from on-device checks (about every 15 min in the background, every minute while the app is open during a live match). '
-              'Android may delay background checks (Doze/battery saver), so alerts are not instant. For best results, exclude Live Score from battery optimisation.'),
+              'Android may delay background checks (Doze/battery saver), so alerts are not instant. For best results, exclude Mi5G Score from battery optimisation.'),
         ),
         h('Following'),
         ListTile(
@@ -59,11 +59,11 @@ class MoreScreen extends StatelessWidget {
         h('About'),
         const ListTile(
           leading: Icon(Icons.info_outline),
-          title: Text('Live Score 2.1.1'),
-          subtitle: Text('Based on the open-source Live Score app by Rady Haggag (MIT License). '
+          title: Text('Mi5G Score 2.2.0'),
+          subtitle: Text('Mi5G Score by Midroid5G, based on the open-source Live Score app by Rady Haggag (MIT License). '
               'Match data from the public 365scores web API. Not affiliated with 365scores or FotMob.'),
         ),
-        ListTile(leading: const Icon(Icons.description_outlined), title: const Text('Open-source licenses'), onTap: () => showLicensePage(context: context, applicationName: 'Live Score', applicationVersion: '2.1.1 (10)')),
+        ListTile(leading: const Icon(Icons.description_outlined), title: const Text('Open-source licenses'), onTap: () => showLicensePage(context: context, applicationName: 'Mi5G Score', applicationVersion: '2.2.0 (11)', applicationLegalese: 'Based on Live Score © 2026 Rady Haggag. MIT License.')),
       ]),
     );
   }

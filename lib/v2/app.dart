@@ -57,7 +57,7 @@ class _LiveScoreAppState extends State<LiveScoreApp> with WidgetsBindingObserver
           _lang = s.dataLang;
           return MaterialApp(
             key: langChanged ? ValueKey('lang-${s.dataLang}') : null,
-            title: 'Live Score',
+            title: 'Mi5G Score',
             debugShowCheckedModeBanner: false,
             theme: buildTheme(Brightness.light),
             darkTheme: buildTheme(Brightness.dark),

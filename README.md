@@ -1,9 +1,10 @@
-# Live Score App
+# Mi5G Score
 
-Live Score is an open-source Flutter football app with 82 stars, built for fast match-day browsing. It brings together live fixtures, today's schedule, standings, lineups, statistics, and match events in a clean cross-platform experience for football fans.
+<img src="branding/icon-squircle-512.png" width="120" alt="Mi5G Score icon"/>
 
-## 📱 App Mockup
-<img width="1892" height="1493" alt="live-score-app-cover" src="https://github.com/user-attachments/assets/45ba9f94-41d1-466c-a042-8769b36ab744" />
+Mi5G Score is an open-source Flutter football app for fast match-day browsing: live scores, today's fixtures, standings, lineups, statistics and match events, in Arabic and English.
+
+Package name: `com.midroid.mi5gscore`. Mi5G Score is a maintained fork of [Live Score](https://github.com/radyhaggag/live_score) by **Rady Haggag**, used under the MIT License (see [LICENSE](LICENSE)). Version 2.2.0 changed the name and package from Live Score, so it installs as a separate app.
 
 ## Overview
 
@@ -61,7 +62,7 @@ You do not need to add any environment variable for the current setup. The app a
 
 ## 📱 Screenshots
 
-Here are some previews of **Live Score App** after the latest update:
+Here are some previews of **Mi5G Score** after the latest update:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2a434a88-85f9-41ee-a05c-e92423431d47" alt="Live score screen - 1" width="30%"/> &nbsp;

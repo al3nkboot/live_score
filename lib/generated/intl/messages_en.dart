@@ -32,7 +32,7 @@ class MessageLookup extends MessageLookupByLibrary {
     "aggregateScore": m0,
     "all": MessageLookupByLibrary.simpleMessage("All"),
     "allLeaguesTooltip": MessageLookupByLibrary.simpleMessage("All leagues"),
-    "appName": MessageLookupByLibrary.simpleMessage("Live Score"),
+    "appName": MessageLookupByLibrary.simpleMessage("Mi5G Score"),
     "appVersion": MessageLookupByLibrary.simpleMessage("App Version"),
     "appearance": MessageLookupByLibrary.simpleMessage("Appearance"),
     "appearanceDescription": MessageLookupByLibrary.simpleMessage(
@@ -80,7 +80,7 @@ class MessageLookup extends MessageLookupByLibrary {
     "lineups": MessageLookupByLibrary.simpleMessage("Lineups"),
     "liveFallback": MessageLookupByLibrary.simpleMessage("LIVE"),
     "liveFixtures": MessageLookupByLibrary.simpleMessage("Live Fixtures"),
-    "liveScore": MessageLookupByLibrary.simpleMessage("Live Score"),
+    "liveScore": MessageLookupByLibrary.simpleMessage("Mi5G Score"),
     "lostShort": MessageLookupByLibrary.simpleMessage("L"),
     "noEvents": MessageLookupByLibrary.simpleMessage(
       "Events are not available yet",
